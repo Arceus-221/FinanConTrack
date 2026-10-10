@@ -5,7 +5,9 @@ permission:
   edit: allow
   webfetch: deny
   bash:
-    "*": deny
+    "*": allow
+    "git push*": deny
+    "rm -rf*": deny
     "git status*": allow
     "git diff*": allow
     "ls*": allow
