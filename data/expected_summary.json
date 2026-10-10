@@ -1,0 +1,28 @@
+{
+  "months": 3,
+  "total_spend": 4782.97,
+  "by_category": {
+    "Education": 165.0,
+    "Entertainment": 165.97,
+    "Food": 690.1,
+    "Health": 76.0,
+    "Rent": 2700.0,
+    "Shopping": 535.0,
+    "Transport": 143.75,
+    "Uncategorized": 40.0,
+    "Utilities": 267.15
+  },
+  "by_month": {
+    "2026-07": 1484.49,
+    "2026-08": 1839.39,
+    "2026-09": 1459.09
+  },
+  "total_income": 5700,
+  "savings": 917.03,
+  "savings_rate": 0.1609,
+  "largest_single_expense": {
+    "description": "Laptop repair",
+    "amount": 450
+  },
+  "notes": "Refunds are negative amounts and reduce spend. Blank category -> Uncategorized."
+}
