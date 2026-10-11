@@ -36,3 +36,8 @@
 2026-10-11 21:49:37   T006 r1 implementer [opencode/big-pickle] (119s) STATUS: DONE
 2026-10-11 21:50:50   T006 r1 tester [google/gemini-3.1-flash-lite] (73s) TESTS: PASS
 2026-10-11 21:53:24   T006 r1 reviewer [opencode/big-pickle] (154s) VERDICT: APPROVE
+2026-10-11 21:53:25 DONE T006 (round 1)
+2026-10-11 21:53:25 START T008: - [ ] T008 Implement app.py as UI-only Streamlit calling src/ functions: profile inputs (occupation, city, mon
+2026-10-11 21:58:22   T008 r1 implementer [opencode/big-pickle] (297s) STATUS: DONE
+2026-10-11 21:59:01   T008 r1 tester [google/gemini-3.1-flash-lite] (39s) TESTS: PASS
+2026-10-11 22:11:09   T008 r1 reviewer [opencode/big-pickle] (728s) VERDICT: APPROVE
