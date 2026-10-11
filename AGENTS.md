@@ -25,6 +25,7 @@ practical advice: how to review spending, how to rebalance, what to adjust.
 - Do exactly the one task you are given. Do not touch checkboxes in tasks.md; the loop script does that.
 - Read only the files you need. Prefer a few large edits over many tiny ones. Run the full test suite at most
   twice per task.
+- Never run streamlit run (it never exits and would hang the loop). Test the UI only with AppTest.
 - Do not ask the human questions. If something is ambiguous, pick the simplest reasonable option and
   state it in one line.
 - End your reply with the status line your role requires (see your agent file).
