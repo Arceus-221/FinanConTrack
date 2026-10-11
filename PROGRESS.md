@@ -31,3 +31,8 @@
 2026-10-11 21:42:21   T005 r1 implementer [opencode/big-pickle] (143s) STATUS: DONE
 2026-10-11 21:43:53   T005 r1 tester [google/gemini-3.1-flash-lite] (92s) TESTS: PASS
 2026-10-11 21:47:37   T005 r1 reviewer [opencode/big-pickle] (224s) VERDICT: APPROVE
+2026-10-11 21:47:38 DONE T005 (round 1)
+2026-10-11 21:47:38 START T006: - [ ] T006 Add the Gemini path to src/advisor.py: a separate load_env() reads .env and merges into os.environ 
+2026-10-11 21:49:37   T006 r1 implementer [opencode/big-pickle] (119s) STATUS: DONE
+2026-10-11 21:50:50   T006 r1 tester [google/gemini-3.1-flash-lite] (73s) TESTS: PASS
+2026-10-11 21:53:24   T006 r1 reviewer [opencode/big-pickle] (154s) VERDICT: APPROVE
