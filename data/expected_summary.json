@@ -21,8 +21,8 @@
   "savings": 917.03,
   "savings_rate": 0.1609,
   "largest_single_expense": {
-    "description": "Laptop repair",
-    "amount": 450
+    "description": "Apartment rent",
+    "amount": 900
   },
   "notes": "Refunds are negative amounts and reduce spend. Blank category -> Uncategorized."
 }
