@@ -16,3 +16,8 @@
 2026-10-11 21:20:47   T003 r1 implementer [opencode/big-pickle] (187s) STATUS: DONE
 2026-10-11 21:22:24   T003 r1 tester [google/gemini-3.1-flash-lite] (97s) TESTS: PASS
 2026-10-11 21:24:25   T003 r1 reviewer [opencode/big-pickle] (121s) VERDICT: APPROVE
+2026-10-11 21:24:26 DONE T003 (round 1)
+2026-10-11 21:24:26 START T004: - [ ] T004 Add budget_comparison(summary) and unusual_spend_flags(profile, df) to src/analysis.py using CATEGO
+2026-10-11 21:30:24   T004 r1 implementer [opencode/big-pickle] (358s) STATUS: DONE
+2026-10-11 21:32:51   T004 r1 tester [google/gemini-3.1-flash-lite] (147s) TESTS: PASS
+2026-10-11 21:34:22   T004 r1 reviewer [opencode/big-pickle] (91s) VERDICT: APPROVE
