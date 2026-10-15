@@ -16,7 +16,7 @@ items remain.
   tests, and is easy to disable for the offline path. The constitution favours minimal design.
 - **Alternatives considered**: `google-genai` SDK (extra dependency and version churn for one call);
   `google-generativeai` (legacy/deprecated); `httpx` (extra dependency for a single POST).
-- **Default model**: `gemini-3.6-flash`, overridable with `GEMINI_MODEL` in `.env`.
+- **Default model**: `gemini-2.5-flash` (configurable via `GEMINI_MODEL` in `.env`).
 
 ## 2. Loading secrets from `.env` without a dependency
 

@@ -27,7 +27,7 @@ DISCLAIMER = (
 )
 
 #: Gemini defaults (FR-021, research.md §1). No URL or key ever sees an error message.
-DEFAULT_GEMINI_MODEL = "gemini-3.6-flash"
+DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_TIMEOUT = 10
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
